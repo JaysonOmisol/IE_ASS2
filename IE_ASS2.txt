@@ -1,0 +1,31 @@
+﻿    #include <iostream>
+    
+    using namespace std;
+
+    int main()
+{
+    cout << "HOW TO CREATE A GOOGLE ACCOUNT" << endl;
+  
+    cout << "Step 1: Go to www.gmail.com " << endl;
+    
+    cout << "Step 2: Click Create an Account " << endl; 
+    
+    cout << "Step 3: The Sign up form will appear and then fill up" << endl; 
+
+    cout << "Step 4: Enter account recovery options" << endl; 
+
+    cout << "Step 5: Fill up your form for Profile" << endl; 
+    
+    cout << "Step 6: Verify your phone number" << endl; 
+
+    cout << "Step 7: Review Google's Terms of Service and Privacy Policy then check the box to agree " << endl; 
+
+    cout << "Step 8: Your account will be created and the google welcome page will appear " << endl; 
+    }
+
+
+
+
+
+
+
